@@ -1,0 +1,3 @@
+/Users/xianboyang/c-lang/single/CMakeFiles/rebuild_cache.dir
+/Users/xianboyang/c-lang/single/CMakeFiles/edit_cache.dir
+/Users/xianboyang/c-lang/single/CMakeFiles/Main.dir
